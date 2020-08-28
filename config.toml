@@ -1,9 +1,9 @@
-baseURL = "http://blog.greatcatlab.net"
+baseURL = "https://blog.greatcatlab.net"
 languageCode = "en-us"
 title = "A blog about my home labbing"
 
 #copyright notice
-copyright = "&copy; Copyright notice"
+copyright = "&copy; Copyright Aaron Langley"
 
 [params]
 # Social accounts. Link to these accounts are displayed in the header and
