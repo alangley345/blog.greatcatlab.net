@@ -4,7 +4,7 @@ languageName = "English"
 title = "A blog about my home labbing"
 
 #tell the robots what to do
-enableRobotsTXT (true)
+enableRobotsTXT = true
 
 #select desired theme
 theme = "tale"
@@ -12,4 +12,13 @@ theme = "tale"
 #copyright notice
 copyright = "&copy; Copyright Aaron Langley"
 
-sectionPagesMenu = "main"
+[[menu.main]]
+	name   = "Home" #label in menu bar
+	weight = 10 #Should always be most to the left
+	url    = "/"
+
+[[menu.main]]
+	name   = "Posts" #label in menu bar
+        weight = 20 #Should always be just to right of "Home"
+        url    = "/posts/"
+
