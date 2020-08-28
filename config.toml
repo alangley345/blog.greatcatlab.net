@@ -12,18 +12,5 @@ theme = "tale"
 #copyright notice
 copyright = "&copy; Copyright Aaron Langley"
 
-[[menu.main]]
-	name   = "Home" #label in menu bar
-	weight = 10 #Should always be most to the left
-	url    = "/"
-
-[[menu.main]]
-	name   = "Posts" #label in menu bar
-        weight = 20 #Should always be just to right of "Home"
-        url    = "/posts/"
-
-[[menu.main]]
-        name   = "About" #label in menu bar
-        weight = 50 #Should always be last on menu 
-        url    = "/about"
+sectionPagesMenu = "main"
 
