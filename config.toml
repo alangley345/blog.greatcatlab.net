@@ -1,7 +1,7 @@
 baseURL = "https://blog.greatcatlab.net"
 languageCode = "en-us"
 languageName = "English"
-title = "A blog about my home labbing"
+title = "A blog about my homelab"
 
 #tell the robots what to do
 enableRobotsTXT = true
@@ -10,7 +10,7 @@ enableRobotsTXT = true
 theme = "tale"
 
 #copyright notice
-copyright = "&copy; Copyright Aaron Langley"
+copyright = "&copy"
 
 sectionPagesMenu = "main"
 
