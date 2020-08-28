@@ -1,6 +1,10 @@
 baseURL = "https://blog.greatcatlab.net"
 languageCode = "en-us"
+languageName = "English"
 title = "A blog about my home labbing"
+
+#tell the robots what to do
+enableRobotsTXT (true)
 
 #select desired theme
 theme = "tale"
