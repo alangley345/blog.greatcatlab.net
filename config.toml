@@ -22,7 +22,7 @@ copyright = "&copy; Copyright Aaron Langley"
         weight = 20 #Should always be just to right of "Home"
         url    = "/posts/"
 
-[menu.main]]
+[[menu.main]]
         name   = "About" #label in menu bar
         weight = 50 #Should always be last on menu 
         url    = "/about.html"
