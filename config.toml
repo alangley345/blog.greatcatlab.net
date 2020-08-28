@@ -25,5 +25,5 @@ copyright = "&copy; Copyright Aaron Langley"
 [[menu.main]]
         name   = "About" #label in menu bar
         weight = 50 #Should always be last on menu 
-        url    = "/about.html"
+        url    = "/about"
 
