@@ -1,7 +1,7 @@
 ---
 title: "About"
+categories: ["misc"]
 date: 2020-08-28T13:18:24-04:00
-draft: true
 menu: main
 meta: false
 ---
