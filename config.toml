@@ -19,7 +19,7 @@ sectionPagesMenu = "main"
 
 [[menu.main]]
     name = "About"
-    weight = 1
+    weight = 100
     url = "/about/"
     identifier = "about"
 
