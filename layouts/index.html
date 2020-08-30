@@ -12,13 +12,10 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
       </div>
-      <!--Pull from content, exclude about section-->
       <div>
-        {{ range .Data.Pages }}
-          {{ if ne .Section "about" }}
-            {{.Content}}
-          {{end}}
-        {{end}}
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
       </div>
 
       <nav class="sidebar-nav">
