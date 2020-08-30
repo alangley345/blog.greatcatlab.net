@@ -1,6 +1,7 @@
 ---
 title: "Built With AWS Amplify"
 date: 2020-08-28T12:29:10-04:00
+author: "Aaron Langley"
 ---
 
 Welcome to my newly created blog site run entirely off of Amazon's Amplify service using the Hugo framework and version control hosted on Github. It provides compute to generate the HTML pages from markdown, SSL support, logging and a build pipeline. Learn more about it here, [AWS Amplify](https://aws.amazon.com/amplify/).
