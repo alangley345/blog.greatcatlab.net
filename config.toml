@@ -17,5 +17,11 @@ AuthorName = "Aaron Langley"
 
 sectionPagesMenu = "main"
 
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+    identifier = "about"
+
 [Permalinks]
     posts = "/posts/:filename/"
