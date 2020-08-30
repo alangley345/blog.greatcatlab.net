@@ -13,7 +13,7 @@
         {{.Content}}
       </div>
       <div>
-        {{ range first 10 .Site.GetPage "section" "posts" }}
+        {{.Site.GetPage "section" "posts" }}
             {{ .Render "summary"}}
         {{ end }}
       </div>
