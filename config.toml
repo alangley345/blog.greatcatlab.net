@@ -12,6 +12,9 @@ theme = "tale"
 #copyright notice
 copyright = "&copy"
 
+#specify author
+AuthorName = "Aaron Langley"
+
 sectionPagesMenu = "main"
 
 [Permalinks]
