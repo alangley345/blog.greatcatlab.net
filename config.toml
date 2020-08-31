@@ -15,13 +15,18 @@ copyright = "&copy"
 #specify author
 AuthorName = "Aaron Langley"
 
-sectionPagesMenu = "main"
+[[menu.main]]
+    name = "Posts"
+    weight = 10
+    url = "/posts/"
+    identifier = "posts"
 
 [[menu.main]]
     name = "About"
     weight = 100
     url = "/about/"
     identifier = "about"
+
 
 [Permalinks]
     posts = "/posts/:filename/"
