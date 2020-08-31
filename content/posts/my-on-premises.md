@@ -2,6 +2,7 @@
 title: "My On-Premises"
 date: 2020-08-31T13:26:10-04:00
 author: "Aaron Langley"
+draft: true
 ---
 
 # My On-Premises Setup
@@ -21,7 +22,7 @@ Cluster consists of the following:
 
 This is all running a  4 node Proxmox cluster. It's not exactly performant, but I was abble to put it together piece by piece and the flexibility of Proxmox and Ceph allowed me to build this up basically a few hundred dollars at a time.
 
-![My Proxmox Cluster](/static/my-on-premises-1.jpg)
+![My Proxmox Cluster](https://blog.greatcatlab.net/static/my-on-premises-1.jpg)
 
 ## Edge
 My edge device is a Netgate branded MinnowBoard Turbot MBT-4220. This configuration came directly from Netgate and is no longer available Check out this page for specs if interested: [Netgate](https://store.netgate.com/MBT-4220-system.aspx) It has more than enough horsepower for my  Spectrum connection and can handle VPN with IPS turned on, although my upload speed leaves a lot to be desired.
