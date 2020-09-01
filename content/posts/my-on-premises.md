@@ -2,7 +2,7 @@
 title: "My On-Premises"
 date: 2020-08-31T13:26:10-04:00
 author: "Aaron Langley"
-draft: true
+draft: false
 ---
 
 ## My On-Premises Setup
