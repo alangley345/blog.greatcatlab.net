@@ -25,7 +25,7 @@ Cluster consists of the following:
 
 This is all running a  4 node Proxmox cluster. It's not exactly performant, but I was able to put it together piece by piece and the flexibility of Proxmox and Ceph allowed me to build this up basically a few hundred dollars at a time.
 
-![My Proxmox Cluster](/static/my-on-premises-1.jpg)
+<img class="special-img-class" src="/static/my-on-premises-1.jpg"/>
 
 ## Edge
 
