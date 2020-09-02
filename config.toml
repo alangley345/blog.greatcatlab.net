@@ -18,6 +18,9 @@ AuthorName = "Aaron Langley"
 #google analytics
 googleAnalytics = "UA-177082760-1"
 
+#Set static directory
+staticDir = "https://blog.greatcatlab.net/static/"
+
 [[menu.main]]
     name = "Posts"
     weight = 10
