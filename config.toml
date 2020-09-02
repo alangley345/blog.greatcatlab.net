@@ -15,6 +15,9 @@ copyright = "&copy"
 #specify author
 AuthorName = "Aaron Langley"
 
+#google analytics
+googleAnalytics = "UA-177082760-1"
+
 [[menu.main]]
     name = "Posts"
     weight = 10
