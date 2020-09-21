@@ -28,30 +28,30 @@ Sophos XG
 
 - Developed and implemented DFS migration and endpoint imaging plan on a department basis.
 - Worked with the ITSC team to evaluate interim compliance for fiscal year 2020.
-- Planned, tested and implemented ACLs, routing, NAT to facilitate interdomain communication
+- Planned, tested and implemented ACLs, routing, NAT to facilitate interdomain communication.
 - Migrated Office 365 Exchange environment to on-prem Exchange server.
-- Designed onboarding process, credentials, outlook config, documentation for 50 users
+- Designed onboarding process, credentials, outlook config, documentation for 50 users.
 
 #### IS Computer Technician, Oct. 2018 - Aug. 2019, Claxton Hepburn Medical Center - Ogdensburg, NY
 
 - Member of a 4 man technician team supporting over 1000 users across 10 sites.
-- Automated common tasks using batch files, python, MS Excel macros and Powershell 
+- Automated common tasks using batch files, python, MS Excel macros and Powershell.
 - Documented actions commonly performed by vendors in order to better serve business.
 
 #### Customer Experience Advocate, November 2017 - September 2018 - Kinney Drugs in Ogdensburg, NY
 
-- Retail focus on providing excellent customer service
+- Retail focus on providing excellent customer service.
 
 #### Various non-IT roles, September 2014 - Nov. 2017
 
 #### Nuclear Machinist Mate, 2011 - 2014, United States Navy - various locations
 
-- Completed naval nuclear power training, qualified Engineering Laboratory Technician, honorably discharged
+- Completed naval nuclear power training, qualified Engineering Laboratory Technician, honorably discharged.
 
 ### Certifications
 
-- Microsoft Certified: Azure Fundamentals 
-- CompTIA Security+ ce Certification. Code: RYXVWEMG0GQQ15CR 
+- Microsoft Certified: Azure Fundamentals
+- CompTIA Security+ ce Certification. Code: RYXVWEMG0GQQ15CR
 
 ### Education
 
