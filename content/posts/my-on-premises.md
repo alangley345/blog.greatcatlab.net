@@ -41,12 +41,14 @@ Wireless connectivity is broadcast from a TP-Link EAP 245 and their [OC200](http
 
 ## Raspberry Pis
 
-You have to have a Raspberry Pi, or in this case two. Both have the stock raspberrian flavor of Debian installed and run Portainer as a frontend for docker containers.
+You have to have a Raspberry Pi, or in this case two. Both have the stock raspberrian flavor of Debian installed and run Portainer as a frontend for docker containers. These get much less use than they used to.
 
 ## Miscellaneous
 
 I also have some hardware that doesn't fit elsewhere but is worth bringing up here.
 
-* Microtik Hex Gigbit router
+* Microtik Hex Gigabit router
 * RIPE Atlas Probe gen. 4
 * Magicjack adapter
+
+Long term I believe that I will move more of the services I run to the cloud, optimizing for cost versus the convenience of leaving them running in my basement and potentially not using them for a week at a time. I honestly believe that while physical hardware definitely serves it place, long term and as I advance in my careers I come to value the convience of running a container or using a .ova image versus setting up infrastructure and building/configuring the service. 
