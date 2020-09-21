@@ -2,7 +2,6 @@
 title: "My resume"
 date: 2020-09-21T14:25:24-04:00
 author: Aaron Langley
-type: static
 url: "/resume"
 ---
 ## Aaron Langley
