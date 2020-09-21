@@ -13,5 +13,6 @@ I have worked on several things through the years but only have brief documentat
 [//]: # (Code for Security + badge)
 <div style="float: right" data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95ce180b-acc5-440e-be5a-35613e31943a" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
+[Resume](https://blog.greatcatlab.net/resume)
 [Github](https://github.com/alangley345)
 [Linkedin](https://www.linkedin.com/in/aaron-langley-701196164/)
