@@ -49,12 +49,12 @@ Sophos XG
 
 - Completed naval nuclear power training, qualified Engineering Laboratory Technician, honorably discharged.
 
-### Certifications
+#### Certifications
 
 - Microsoft Certified: Azure Fundamentals
 - CompTIA Security+ ce Certification. Code: RYXVWEMG0GQQ15CR
 
-### Education
+#### Education
 
 - M.S. in Cybersecurity from Excelsior College, May 2020
 - B.S. in Nuclear Engineering Technology from Excelsior College, 2018
