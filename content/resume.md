@@ -1,13 +1,13 @@
 ---
-title: "My resume"
+title: "Aaron Langley"
 date: 2020-09-21T14:25:24-04:00
 author: Aaron Langley
 type: static
 url: "/resume"
 ---
-## Aaron Langley
-
-alangley345@gmail.com   10 Arnold Street, Ogdensburg, NY 13669  (315) 323-8540
+- alangley345@gmail.com   
+- 10 Arnold Street, Ogdensburg, NY 13669  
+- (315) 323-8540
 
 ### Skills
 
