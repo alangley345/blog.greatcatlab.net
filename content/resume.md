@@ -2,7 +2,7 @@
 title: "Aaron Langley"
 date: 2020-09-21T14:25:24-04:00
 author: Aaron Langley
-type: static
+draft: false
 url: "/resume"
 ---
 - alangley345@gmail.com
