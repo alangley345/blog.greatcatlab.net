@@ -5,7 +5,7 @@ author: Aaron Langley
 type: static
 url: "/resume"
 ---
-- alangley345@gmail.com   
+- alangley345@gmail.com
 - 10 Arnold Street, Ogdensburg, NY 13669  
 - (315) 323-8540
 
